@@ -1,0 +1,9 @@
+[submodule "services/user-service"]
+	path = services/user-service
+	url = git@github.com:StillNotEnough/user-service.git
+[submodule "services/ai-service"]
+	path = services/ai-service
+	url = git@github.com:StillNotEnough/ai-service.git
+[submodule "services/frontend-service"]
+	path = services/frontend-service
+	url = git@github.com:StillNotEnough/frontend-service.git
